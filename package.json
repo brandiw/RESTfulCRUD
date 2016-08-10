@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/brandiw/RESTfulCRUD/issues"
   },
-  "homepage": "https://github.com/brandiw/RESTfulCRUD#readme"
+  "homepage": "https://github.com/brandiw/RESTfulCRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
 }
